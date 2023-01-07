@@ -4,15 +4,14 @@ To get started with web 3 and learn about the block chain, smart contracts
 
 ## Description
 
-Its not really been alot of time since I started smart contracts or solidity in general so all the codes are just the similar/ slight changed version from the [tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PPSV)
+Its not really been alot of time since I started smart contracts or solidity in general so all the codes are just the similar/ slight changed version from the tutorials [1](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PPSV) [2](https://www.youtube.com/watch?v=coQ5dg8wM2o&t=387s)
 
-## Soon
+## Dependencies
 
-Soon other things / info might be added
+- [![Node][node.js]][nodejs-url]
+- [![React][react.js]][react-url]
 
-- [ ] Just to see what it looks like
-
-* Code
+- Code
 
 ```C++
 cout<<"Hola Amigos";
@@ -21,3 +20,10 @@ cout<<"Hola Amigos";
 ## Tutorial
 
 something...
+
+// procedure of the git (local)
+// git branch ( to check the branches )
+// create new branch git checkout -b name
+// switch branch
+[NOde.js]: https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Nodejs-url]: https://nodejs.org/
