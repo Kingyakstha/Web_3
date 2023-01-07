@@ -25,5 +25,5 @@ something...
 // git branch ( to check the branches )
 // create new branch git checkout -b name
 // switch branch
-[Node.js]: https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Nodejs-url]: https://nodejs.org/
+[node.js]: https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[nodejs-url]: https://nodejs.org/
