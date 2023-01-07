@@ -9,9 +9,9 @@ Its not really been alot of time since I started smart contracts or solidity in 
 ## Dependencies
 
 - [![Node][node.js]][nodejs-url]
-- [![React][react.js]][react-url]
+- [![Ganache][ganache]][ganache-url]
 
-- Code
+* Code
 
 ```C++
 cout<<"Hola Amigos";
@@ -27,3 +27,5 @@ something...
 // switch branch
 [node.js]: https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [nodejs-url]: https://nodejs.org/
+[ganache]: https://img.shields.io/badge/Ganache-yellow?style=for-the-badge&logo=nodedotjs&logoColor=white
+[ganache-url]: https://ganache.org/
